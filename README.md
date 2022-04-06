@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robertera, glad to see you here!
 - 👀 I’m interested in Programming, Watch animes and series/films, workout and play some games...
-- 🌱 I’m currently learning Dart and Java, and very intrested to learn Python
+- 🌱 I’m currently learning Dart and Java, and very interested to learn Python
 - 🎧 My favorite music at the moment is VAMpiro - Matue 🧛‍♀️
 - 🎮 My favorite game at the moment is Lost Ark 🤩
 
