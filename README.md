@@ -8,9 +8,9 @@
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
 <ul>
-  <li> 📺 Currently watching <b>Boku No Hero</b> and <b>One Piece</b></li>
+  <li> 📺 Currently watching <b>Demon Slayer</b> and <b>One Piece</b></li>
   <li> 🔭 I’m currently studying <b>JavaScript</b> and <b>UI/UX</b></li>
-  <li> 🎮 I’m currently playing <b>League Of Legends</b> or <b>V-Rising</b></li>
+  <li> 🎮 I’m currently playing <b>Valorant</b> or <b>Tormenta20</b></li>
     <li> 🤔 I’m looking for <b>a job in front-end jr</b> or <b>Product Design Jr</b></li>
   <li> 📫 How to reach me: <b>(i'm building the site XD)</b> or email: <b>robertokorzun@hotmail.com</b></li>
 </ul>
