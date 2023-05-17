@@ -12,7 +12,7 @@
   <li> 🔭 I’m currently studying <b>JavaScript</b> and <b>UI/UX</b></li>
   <li> 🎮 I’m currently playing <b>Valorant</b> or <b>Tormenta20</b></li>
     <li> 🤔 I’m looking for <b>a job in front-end jr</b> or <b>Product Design Jr</b></li>
-  <li> 📫 How to reach me: <b>(i'm building the site XD)</b> or email: <b>robertokorzun@hotmail.com</b></li>
+    <li> 📫 How to reach me: <a href="https://robertera.github.io/Portfolio/" target = "_blank" </a> or email: <b>robertokorzun@hotmail.com</b></li>
 </ul>
 
 <div align="center">
