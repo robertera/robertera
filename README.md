@@ -13,7 +13,7 @@
   <li> 🎮 I’m currently playing <b>Valorant</b> or <b>Tormenta20</b></li>
     <li> 🤔 I’m looking for <b>a job in front-end jr</b> or <b>Product Design Jr</b></li>
     <li> 📫 How to reach me: <a href="https://robertera.github.io/Portfolio/" target = "_blank" <b>Personal Portfolio</b></a></li>
-    <li> ✉️ email: <b>robertokorzun@hotmail.com</b> </li>
+    <li> ✉️ email: robertokorzun@hotmail.com</li>
 </ul>
 
 <div align="center">
