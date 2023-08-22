@@ -31,16 +31,18 @@
 <div align="center">
   <p align = "center">I'm just a student of the last semester of systems analysis and development, but I added some very basic knowledge, like these:<br></p>
   <p align = "center">
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="Css" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-BOOTSTRAP-purple?logo=bootstrap&logoColor=white" alt="Bootstrap" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="Css" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" height="30" /> 
+    <img style="margin: 5px" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-MySQL-darkblue?logo=mysql&logoColor=white" alt="MySQL" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white" alt="PHP" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white" alt="Java" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" height="30" />  
-    
+    <img style="margin: 5px" src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white" alt="PHP" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white" alt="Java" height="30" /> 
+    <img style="margin: 5px" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" alt="Python" height="30" /> 
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" height="30" /> 
+     
   </p>
   <img src = "Add-ons/hinata.gif" width = "460px" height="auto" align="center">
 </div>
