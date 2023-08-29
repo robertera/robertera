@@ -1,6 +1,6 @@
 <h1 align="center">❄️ ようこそ =), 𝘐'𝘮 𝘙𝘰𝘣𝘦𝘳𝘵𝘦𝘳𝘢!❄️<h1>
 <div align="center">
-    <img width="720" heigh="auto" src=Add-ons/luffy.gif>
+    <img width="720" heigh="auto" src=Add-ons/one-piece.gif>
 </div>
 
 <br>
@@ -58,14 +58,14 @@
 <h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
 <div align="center">
   <a href="https://linkedin.com/in/roberto-carlos-de-assis-junior-796804238">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/My_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="Linkedin">
   </a>
-  <a href="https://github.com/robertera">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
+  <a href="https://robertera.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Personal_Portfolio-black?logo=github&style=for-the-badge&" target="_blank" rel="Portfolio Pessoal">
   </a>
-  <a href="https://discord.gg/Robertera#2092" >
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:robertkorzun@hotmail.com" >
+  <img src="https://img.shields.io/badge/Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="Discord">
   </a>
   <br>
-  <img src=Add-ons/hinata.gif width="400" height="auto">
+  <img src=Add-ons/haikyuu.gif width="400" height="auto">
 </div>
