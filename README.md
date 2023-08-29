@@ -18,10 +18,8 @@
 
 <div align="center">
     <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
-    [![Spotify](https://robertera.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/%7C%7Crobert%7C%7C)
+    <a href="https://open.spotify.com/user/%7C%7Crobert%7C%7C?"><img src="https://robertera.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/></a>
 </div>
-<br>
-
 
 <div>
 <h1 align="center">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
