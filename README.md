@@ -25,7 +25,6 @@
 <h1 align="center">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
 </div>
 <div align="center">
-  <p align = "center">I'm just a student of the last semester of systems analysis and development, but I added some very basic knowledge, like these:<br></p>
   <p align = "center">
     <img style="margin: 5px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="Css" height="30" />
