@@ -1,6 +1,6 @@
 <h1 align="center">❄️ ようこそ =), 𝘐'𝘮 𝘙𝘰𝘣𝘦𝘳𝘵𝘦𝘳𝘢!❄️<h1>
 <div align="center">
-    <img src="Add-ons/luffy.gif" width="720" heigh="auto">
+    <img src = "Add-ons/one-piece.gif" width="720" heigh="auto" align="center">
 </div>
 
 <br>
