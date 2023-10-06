@@ -1,4 +1,4 @@
-<h1 align="center">❄️ ようこそ =), 𝘐'𝘮 𝘙𝘰𝘣𝘦𝘳𝘵𝘦𝘳𝘢!❄️<h1>
+<h1 align="center">❄️ ようこそ =), 𝘐'𝘮 𝘙𝘰𝘣𝘦𝘳𝘵𝘦𝘳𝘢!❄️</h1>
 <div align="center">
     <img src = "Add-ons/one-piece.gif" width="720" heigh="auto" align="center">
 </div>
@@ -9,7 +9,7 @@
 
 <ul>
   <li> 📺 Currently watching <b>Demon Slayer</b> and <b>One Piece</b></li>
-  <li> 🔭 I’m currently studying <b>JavaScript</b> and <b>UI/UX</b></li>
+  <li> 🔭 I’m currently studying <b>Angular</b> and <b>UI/UX</b></li>
   <li> 🎮 I’m currently playing <b>Valorant</b> or <b>Tormenta20</b></li>
     <li> 🤔 I’m looking for <b>a job in front-end jr</b> or <b>Product Design Jr</b></li>
     <li> 📫 How to reach me: <a href="https://robertera.github.io/Portfolio/" target = "_blank" <b>Personal Portfolio</b></a></li>
